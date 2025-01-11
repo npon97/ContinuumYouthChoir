@@ -8758,8 +8758,7 @@ fieldset:disabled .btn {
 
 .bg-primary {
   --bs-bg-opacity: 1;
-  /* background-color: rgba(var(--bs-primary-rgb), var(--bs-bg-opacity)) !important; */
-  background-color: rgba(var(--custom-navy-rgb), var(--bs-bg-opacity)) !important;
+  background-color: rgb(110, 195, 199) !important;
 }
 
 .bg-secondary {
